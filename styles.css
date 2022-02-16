@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+body {
+    background: gainsboro;
+    color: #0f141e;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.avatar {
+    width: 200px;
+    height: 250px;
+    border-radius: 100px;
+
+}
+
+
+.container {
+    border-style: groove;
+    border-top-style: groove;
+    border-color:#bec2c2;
+    border-width: 6px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card {
+    padding: 15px 20px;
+    background: skyblue;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+.bg-gainsboro {
+    display: flex;
+    background: gainsboro;
+    margin: 20px;
+}
+.bg-skyblu {
+    background: #dddee0;
+    
+}
+.bg-skyblue {
+    background: #dddee0;
+}
+
+.bg-hard {
+    background: #dddee0;
+}
+
+.list {
+    list-style: none;
+}
+.list2 {
+    
+    list-style: none;
+}
+.png1 {
+    list-style-image:url('call4.png');
+}
+.png2 {
+    list-style-image:url('call1.png');
+}
+.png3 {
+    list-style-image:url('telegram.png');
+}
+.png4 {
+    list-style-image:url('call6.png');
+}
+.png5 {
+    list-style-image:url('call7.png');
+}
+.png6 {
+    list-style: none ;
+    padding: 0;
+}
+.info2 {
+    margin-left: 70px;
+}
+
+.info4 {
+    list-style: none;
+}
+.h3 {
+    font-size: large;
+}
+.h5 {
+    font-size: large;
+}
+.f6 {
+    font-size: large;
+}
